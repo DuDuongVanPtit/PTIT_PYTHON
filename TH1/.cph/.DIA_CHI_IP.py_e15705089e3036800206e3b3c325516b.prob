@@ -1,0 +1,1 @@
+{"name":"Local: DIA_CHI_IP","url":"d:\\3-NAM BA_2023-2024\\PTIT_PYTHON\\TH1\\DIA_CHI_IP.py","tests":[{"id":1695532728103,"input":"2\n192.168.1.1\n256.255.255.255","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\3-NAM BA_2023-2024\\PTIT_PYTHON\\TH1\\DIA_CHI_IP.py","group":"local","local":true}
